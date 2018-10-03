@@ -162,6 +162,17 @@
       }
     },
     {
+      "start_date": {
+        "day": "03",
+        "month": "01",
+        "year": "2004"
+      },
+      "text": {
+        "headline": "WordPress 1.0 (Code name: Davis) was released",
+        "text": "<p>Added search engine friendly permanent links, multiple categories, dead simple installation and upgrade, comment moderation, XFN support, Atom support.</p>"
+      }
+    },
+    {
       "media": {
         "url": "/img/plugin-directory-2005.jpg",
         "caption": "The first version of the WordPress Plugin Directory, in late 2005",
@@ -173,7 +184,7 @@
         "year": "2004"
       },
       "text": {
-        "headline": "WordPress 1.2 launched",
+        "headline": "WordPress 1.2 (Code name: Mingus) launched",
         "text": "<p>Plugins were introduced, the first plugin is Hello Dolly.<br/>Internationalization was another major advancement.</p>"
       }
     },
@@ -183,10 +194,12 @@
         "caption": "The default theme of WordPress until 2010"
       },
       "start_date": {
+        "day": "17",
+        "month": "02",
         "year": "2005"
       },
       "text": {
-        "headline": "WordPress 1.5 launched",
+        "headline": "WordPress 1.5 (Code name: Strayhorn) launched",
         "text": "<p>WordPress 1.5 got its theme system.</p>"
       }
     },
@@ -212,11 +225,12 @@
         "credit": "<a href='http://www.wpbeginner.com/news/the-history-of-wordpress/'>http://www.wpbeginner.com/news/the-history-of-wordpress/</a>"
       },
       "start_date": {
+        "day": "31",
         "month": "12",
         "year": "2005"
       },
       "text": {
-        "headline": "WordPress 2.0",
+        "headline": "WordPress 2.0 (Code name: Duke) was released",
         "text": "<p>WordPress 2.0 was released with a new admin dashboard.</p>"
       }
     },
