@@ -105,17 +105,6 @@
       }
     },
     {
-      "start_date": {
-        "day": "03",
-        "month": "01",
-        "year": "2004"
-      },
-      "text": {
-        "headline": "WordPress 1.0 (Code name: Davis) was released",
-        "text": "<p>Added search engine friendly permanent links, multiple categories, dead simple installation and upgrade, comment moderation, XFN support, Atom support.</p>"
-      }
-    },
-    {
       "media": {
         "url": "/img/plugin-directory-2005.jpg",
         "caption": "The first version of the WordPress Plugin Directory, in late 2005",
@@ -249,6 +238,14 @@
       "start_date": {
         "day": "22",
         "month": "01",
+        "year": "2007"
+      },
+      "text": {
+        "headline": "WordPress 2.1 (Code name: Ella) was released",
+        "text": "<p>Corrected security issues, redesigned interface, enhanced editing tools (including integrated spell check and auto save), and improved content management options.</p>"
+      }
+    },
+    {
       "start_date": {
         "day": "16",
         "month": "05",
@@ -266,28 +263,8 @@
         "year": "2007"
       },
       "text": {
-      }
-    },
-    {
-      "start_date": {
-        "day": "10",
-        "month": "06",
-        "year": "2009"
-      },
-      "text": {
-        "headline": "WordPress 2.8 (Code name: Dexter) was released",
-        "text": "<p>Added improvements in speed, automatic installing of themes from within administration interface, introduces the CodePress editor for syntax highlighting and a redesigned widget interface.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "19",
-        "month": "12",
-        "year": "2009"
-      },
-      "text": {
-        "headline": "WordPress 2.9 (Code name: Carmen) was released",
-        "text": "<p>Added global undo, built-in image editor, batch plugin updating, and many less visible tweaks.</p>"
+        "headline": "WordPress 2.3 (Code name: Dexter) was released",
+        "text": "<p>Added native tagging support, new taxonomy system for categories, and easy notification of updates, fully supports Atom 1.0, with the publishing protocol, and some much needed security fixes.</p>"
       }
     },
     {
